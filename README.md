@@ -11,9 +11,5 @@
 </p>
 
 <p align="left">
-  Sem Preferência de Linguagem de Programação até o momento.
- </p>
-
-<p align="left">
    <strong> HTML | CSS | JavaScript | BootStrap |
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
