@@ -3,7 +3,11 @@
 </p>
 
 <p align="left">
-  Luiz Henrique Fernandes Coelho
+  Meu nome é <b>Luiz Henrique Fernandes Coelho</b>
+</p>
+
+<p align="left">
+  &#127936; &#9992;
 </p>
 
 <p align="left">
