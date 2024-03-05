@@ -16,4 +16,8 @@
 
 <p align="left">
    <strong> HTML | CSS | JavaScript | Node.js | BootStrap | Typescript | React |
+
+<p align="left">
+Acesse meus projetos: https://github.com/Ligueja?tab=repositories
+  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
